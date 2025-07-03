@@ -2,7 +2,7 @@
 
 ## Operadores e Manipulação de String com Python
 
-### --> Desafio de Projeto | [Sistema Bancário com Python](bootcamp-santander-dio-2025/00%20-%20Fundamentos/sistema_bancario.py)
+### --> Desafio de Projeto | [Sistema Bancário com Python](00%20-%20Fundamentos/sistema_bancario.py)
 
 **OBJETIVO**: Criar um sistema bancário com as operações: sacar, depositar e visualizar extrato.
 
@@ -17,7 +17,7 @@ Os valores devem ser exibidos utilizando o formato R$ xxx.xx, exemplo:
 1500.45 = R$1500.45
 
 
-### --> Desafio de Código | [Cálculo de Desconto em Loja](bootcamp-santander-dio-2025/00%20-%20Fundamentos/calculo_desconto.py)
+### --> Desafio de Código | [Cálculo de Desconto em Loja](00%20-%20Fundamentos/calculo_desconto.py)
 
 **DESCRIÇÃO**: Uma loja online deseja aplicar descontos em seus produtos com base em cupons de desconto digitados pelos clientes. Regras de desconto: "DESCONTO10": 10% de desconto; "DESCONTO20": 20% de desconto; "SEM_DESCONTO": Sem desconto.
 
@@ -25,7 +25,7 @@ Os valores devem ser exibidos utilizando o formato R$ xxx.xx, exemplo:
 
 **SAÍDA**: Preço final após aplicar o desconto. Com duas casas decimais.
 
-### --> Desafio de Código | [Validador de Formato de E-mails](bootcamp-santander-dio-2025/00%20-%20Fundamentos/validador_email.py)
+### --> Desafio de Código | [Validador de Formato de E-mails](00%20-%20Fundamentos/validador_email.py)
 
 **DESCRIÇÃO**: Uma empresa quer validar se os e-mails cadastrados pelos usuários estão no formato correto. Crie uma função que receba um e-mail e verifique se ele é válido, seguindo as regras: Deve conter o caractere "@" e um domínio, como gmail.com ou outlook.com; Não pode começar ou terminar com "@"; Não pode conter espaços.
 
