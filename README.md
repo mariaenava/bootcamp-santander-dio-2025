@@ -2,7 +2,7 @@
 
 ## Operadores e Manipulação de String com Python
 
-### --> Desafio de Projeto | *Sistema Bancário com Python*
+### --> Desafio de Projeto | [Sistema Bancário com Python](bootcamp-santander-dio-2025/00%20-%20Fundamentos/sistema_bancario.py)
 
 **OBJETIVO**: Criar um sistema bancário com as operações: sacar, depositar e visualizar extrato.
 
