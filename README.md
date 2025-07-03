@@ -17,4 +17,18 @@ Os valores devem ser exibidos utilizando o formato R$ xxx.xx, exemplo:
 1500.45 = R$1500.45
 
 
-### --> Desafio de Código | *Explorando Operadores e Mapipulação de Strings*
+### --> Desafio de Código | [Cálculo de Desconto em Loja](bootcamp-santander-dio-2025/00%20-%20Fundamentos/calculo_desconto.py)
+
+**DESCRIÇÃO**: Uma loja online deseja aplicar descontos em seus produtos com base em cupons de desconto digitados pelos clientes. Regras de desconto: "DESCONTO10": 10% de desconto; "DESCONTO20": 20% de desconto; "SEM_DESCONTO": Sem desconto.
+
+**ENTRADA**: Preço original do produto; Código do cupom digitado.
+
+**SAÍDA**: Preço final após aplicar o desconto. Com duas casas decimais.
+
+### --> Desafio de Código | [Validador de Formato de E-mails](bootcamp-santander-dio-2025/00%20-%20Fundamentos/validador_email.py)
+
+**DESCRIÇÃO**: Uma empresa quer validar se os e-mails cadastrados pelos usuários estão no formato correto. Crie uma função que receba um e-mail e verifique se ele é válido, seguindo as regras: Deve conter o caractere "@" e um domínio, como gmail.com ou outlook.com; Não pode começar ou terminar com "@"; Não pode conter espaços.
+
+**ENTRADA**: Uma string contendo o e-mail a ser validado.
+
+**SAÍDA**: "E-mail válido" se o e-mail estiver no formato correto; "E-mail inválido" caso contrário.
