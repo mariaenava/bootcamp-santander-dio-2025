@@ -1,4 +1,4 @@
-# BOOTCAMP Santander & DIO 2025 | Back-End com Python
+# BOOTCAMP Santander & DIO 2025 | Back-End Python
 
 ## Operadores e Manipulação de String com Python
 
